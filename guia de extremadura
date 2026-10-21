@@ -1,0 +1,71 @@
+# Guía de Extremadura :
+
+<!-- Esto es un comentario con la sintaxis de Markdown -->
+
+![Extremadura](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwqEwHck9kA_wVdY1tOhM8LRutrp_KzPFcUOegua-UsA&s=10)
+
+## Introducción
+
+Extremadura es una comunidad autónoma del oeste de España, con dos provincias: Cáceres y Badajoz.
+
+*Esta tierra es famosa por su naturaleza* y _por su patrimonio romano_.
+
+**Su gastronomía es de las mejores de España** y **sus pueblos son muy bonitos**.
+
+*Es un destino **tranquilo** y auténtico* para viajar sin prisas.
+
+Esto es un segundo párrafo, separado por una línea en blanco.
+
+Esta línea termina con dos espacios,  
+y por eso la siguiente frase sale en una línea nueva.
+
+Para escribir asteriscos de verdad se usa la barra invertida: \*asteriscos literales\*
+
+## Qué ver
+
+### Lugares de interés
+
+* Mérida
+  * Teatro romano
+  * Anfiteatro
+  * Acueducto de los Milagros
+* Cáceres
+  * Plaza Mayor y Torre de la Yerba
+  * Arco de la Estrella
+* Trujillo
+  * La Plaza Mayor
+* Guadalupe
+  * El monasterio
+* Parque Nacional de Monfragüe
+
+### Ruta de tres días
+
+1. Día 1: Mérida y sus monumentos romanos
+2. Día 2: Cáceres y Trujillo
+3. Día 3: Monfragüe
+   * Ver los buitres leonados
+   * Hacer una ruta de senderismo
+
+## Lista de tareas antes del viaje
+
+- [x] Elegir las fechas
+- [x] Reservar el alojamiento
+- [ ] Reservar entradas en Mérida
+- [ ] Preparar calzado para senderismo
+
+## Qué comer
+
+Plato | Descripción | Producto estrella
+----- | ----------- | -----------------
+Jamón ibérico | Curado de las dehesas extremeñas | Cerdo ibérico
+Torta del Casar | Queso cremoso de oveja | Leche de oveja
+Migas extremeñas | Pan frito con pimentón y chorizo | Pan y chorizo
+Caldereta | Guiso tradicional de cordero | Cordero
+
+
+
+## Más información
+
+Enlace automático: http://www.turismoextremadura.com
+
+Enlace con texto: [Turismo de Extremadura](http://www.turismoextremadura.com)
